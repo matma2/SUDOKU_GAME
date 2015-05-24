@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1432383226 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\main.cpp
+	"Sudoku.hpp"
+
+1423831828 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\include\graphics.hpp
+	<string>
+
+1432491729 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\sudoku.hpp
+	"MyApplication.hpp"
+	"SudokuField.hpp"
+	"StaticText.hpp"
+	<sstream>
+
+1432489678 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\myapplication.hpp
+	"Widget.hpp"
+	"PushButton.hpp"
+	<vector>
+
+1432480291 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\widget.hpp
+	"graphics.hpp"
+
+1432478815 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\pushbutton.hpp
+	"Widget.hpp"
+
+1432489386 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\myapplication.cpp
+	"MyApplication.hpp"
+
+1432478815 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\pushbutton.cpp
+	"PushButton.hpp"
+
+1432479010 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\statictext.cpp
+	"StaticText.hpp"
+
+1432478920 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\statictext.hpp
+	"Widget.hpp"
+
+1432492017 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\sudoku.cpp
+	"Sudoku.hpp"
+	<fstream>
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1432481946 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\sudokufield.cpp
+	"SudokuField.hpp"
+
+1432479921 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\sudokufield.hpp
+	"TextBox.hpp"
+	"Sudoku.hpp"
+	<sstream>
+
+1432480370 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\widget.cpp
+	"Widget.hpp"
+
+1432480087 c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\textbox.hpp
+	"Widget.hpp"
+
+1432480146 source:c:\users\márkó\desktop\bevprog ii\3.nagyházi_sudoku\textbox.cpp
+	"TextBox.hpp"
+
